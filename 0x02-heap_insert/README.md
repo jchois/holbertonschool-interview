@@ -30,7 +30,7 @@ struct binary_tree_s
 
 _Developed by_
 
-**Yoyman Castellar** :computer: :man: 
+**Juliana Choisr** :computer: :woman: 
 
 - Github - [jchois](https://github.com/jchois)
 - Twitter - [@julianachois](https://twitter.com/julianachois)
